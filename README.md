@@ -4,7 +4,7 @@
 ## :globe_with_meridians: Redes Sociales
 - Difundiendo mis ideas y opinion en [Twitter](https://twitter.com/)
 - Mi curriculum y preparación en [Linkedin](https://ec.linkedin.com/)
-- Estudiando en [UTA]()
+- Estudiando en [UTA](https://uta.edu.ec/v4.0/index.php/servicios-web)
 
 Soy un estudiante de Ingeniería de Software que busca aprender los temas más interesantes de la tecnología que permitan lograr un cambio significativo y positivo en la sociedad ambateña.
 Por el momento tengo experiencia en lenguajes de programación como JAVA, PHP, JavaScript. En cuanto a herramientas de gestión de cambios, he aprendido a utilizar de forma efectiva Github y Jira y espero aprender otras herramientas que también son importantes en el desarrollo de un proyecto de software.
