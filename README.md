@@ -15,9 +15,10 @@ Por el momento tengo experiencia en lenguajes de programación como JAVA, PHP, J
 
 :chart_with_upwards_trend: Aprendo más cosas sobre tecnología para poder encontrar un trabajo
 
-## Mis Proyectos 
-- :computer: :receipt: Programa para gestionar un negocio
+## :date: 	:bar_chart: Mis Proyectos 
+- :computer: :receipt: **Programa para gestionar un negocio:**
 Actualmente me encuentro planificando la creación de un programa que permita gestionar distintas áreas de un negocio de manufactura. Desde la gestión de su inventario hasta el siguimiento de los ingresos y egresos del negocio.
+- :atom: **Creación de una APP de oferta de empleo:** Creación de una aplicación que permite a las personas buscar y ofrecer trabajos de forma rápida y efectiva.
 
 ## :computer: Tecnologías en las que tengo experiencia
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
