@@ -1,4 +1,3 @@
-### Hi there 👋
 # Alexis Joel Poaquiza Peñaloza GitPage
 ![Imagen](https://yt3.ggpht.com/ytc/AKedOLSI3Io5g_zTIfKK7Uc2U9-I0SjPpGCUZ4jVvEsm=s900-c-k-c0x00ffffff-no-rj)
 
