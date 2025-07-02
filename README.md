@@ -4,13 +4,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+tecnología;¡Siempre+aprendiendo!" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 Acerca de mí
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Acerca de mí
 
-Soy un desarrollador apasionado por construir soluciones tecnológicas. Me encanta explorar nuevas tecnologías y utilizarlas para crear proyectos innovadores.
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo web/móvil
-- 🌱 Siempre aprendiendo nuevas tecnologías y metodologías
-- 💬 Pregúntame sobre desarrollo de software, arquitectura o cualquier tema tech
+### 🚀 Sobre mí
+Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
+
+<details>
+<summary>🔍 Más sobre mi perfil profesional...</summary>
+<br>
+
+- 💼 Especializado en desarrollo fullstack con enfoque en soluciones escalables
+- 🎓 Formación continua en tecnologías emergentes y mejores prácticas
+- 💡 Enfoque orientado a soluciones y arquitecturas limpias
+- 👥 Experiencia en liderazgo técnico y mentoría de equipos
+</details>
+
+### 🔭 Actualmente estoy...
+
+- Trabajando en proyectos de desarrollo web/móvil utilizando tecnologías modernas
+- Investigando arquitecturas serverless y microservicios
+- Mejorando mis habilidades en DevOps y CI/CD
+- Contribuyendo a proyectos open source
+
+### 🌱 Aprendiendo
+
+<div align="left">
+  <img src="https://progress-bar.dev/90/?title=JavaScript" width="170">
+  <img src="https://progress-bar.dev/85/?title=React" width="150">
+  <img src="https://progress-bar.dev/75/?title=Node.js" width="170">
+  <img src="https://progress-bar.dev/80/?title=Python" width="150">
+</div>
+
+### 🌟 Intereses
+
+```javascript
+const alex = {
+  interesesTecnicos: ["Desarrollo Web", "IA", "Cloud Computing", "DevOps"],
+  hobbies: ["Programación", "Gaming", "Música", "Viajes"],
+  metasDiarias: ["Aprender algo nuevo", "Contribuir a open source", "Mejorar mi código"],
+  cita: "El código es como el humor. Cuando tienes que explicarlo, es malo."
+};
 
 ## 🛠️ Tecnologías y Herramientas
 
