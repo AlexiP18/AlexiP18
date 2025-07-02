@@ -238,15 +238,7 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
   <img src="https://github-profile-trophy.vercel.app/?username=AlexiP18&theme=tokyonight&row=1&column=6&margin-w=15" alt="trophy" />
 </div>
 
-## 📈 Actividad
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexiP18&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 📫 Contáctame
-
-## 📌 Contáctame
 
 <div align="center">
   <a href="joelpstudy10@gmail.com">
