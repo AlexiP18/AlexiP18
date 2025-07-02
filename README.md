@@ -138,111 +138,104 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-<div style="flex: 1; border-right: 1px solid #e6e6e6; padding-right: 20px;">
-  <div style="background-color: #e6f3ff; padding: 10px; border-radius: 8px; display: flex; align-items: center; margin-bottom: 15px;">
-    <span style="background-color: #bde0fe; border-radius: 8px; padding: 8px; margin-right: 10px;">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect width="24" height="24" rx="4" fill="#bde0fe"/>
-        <path d="M20 4H4C2.89543 4 2 4.89543 2 6V18C2 19.1046 2.89543 20 4 20H20C21.1046 20 22 19.1046 22 18V6C22 4.89543 21.1046 4 20 4Z" stroke="#3b82f6" stroke-width="2"/>
-      </svg>
-    </span>
-    <span style="color: #3b82f6; font-size: 18px; font-weight: 600;">Frontend</span>
-  </div>
+<table>
+  <tr>
+    <th width="33%">
+      <div style="background-color: #e6f3ff; padding: 10px; border-radius: 8px; display: flex; align-items: center;">
+        <span style="background-color: #bde0fe; border-radius: 8px; padding: 8px; margin-right: 10px;">💻</span>
+        <span style="color: #3b82f6; font-size: 18px; font-weight: 600;">Frontend</span>
+      </div>
+    </th>
+    <th width="33%">
+      <div style="background-color: #e7f8e9; padding: 10px; border-radius: 8px; display: flex; align-items: center;">
+        <span style="background-color: #b5e6b9; border-radius: 8px; padding: 8px; margin-right: 10px;">⚙️</span>
+        <span style="color: #22c55e; font-size: 18px; font-weight: 600;">Backend</span>
+      </div>
+    </th>
+    <th width="33%">
+      <div style="background-color: #f3e8fd; padding: 10px; border-radius: 8px; display: flex; align-items: center;">
+        <span style="background-color: #e0c6f9; border-radius: 8px; padding: 8px; margin-right: 10px;">🗄️</span>
+        <span style="color: #9333ea; font-size: 18px; font-weight: 600;">Bases de Datos</span>
+      </div>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <p>Especializado en crear interfaces de usuario modernas y responsivas. Experiencia sólida en React, Next.js, TypeScript y herramientas de desarrollo frontend.</p>
+    </td>
+    <td>
+      <p>Desarrollo de APIs robustas y escalables. Experiencia en Node.js, Python, bases de datos y arquitecturas de microservicios para aplicaciones empresariales.</p>
+    </td>
+    <td>
+      <p>Gestión y diseño de bases de datos relacionales y NoSQL. Optimización de consultas y arquitectura de datos para aplicaciones de alto rendimiento.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/>
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/>
+      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/>
+      <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/>
+      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/>
+      <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL"/>
+    </td>
+  </tr>
+</table>
 
-  <p>Especializado en crear interfaces de usuario modernas y responsivas. Experiencia sólida en React, Next.js, TypeScript y herramientas de desarrollo frontend.</p>
+<table>
+  <tr>
+    <th width="33%" align="center">DevOps & Cloud</th>
+    <th width="33%" align="center">Herramientas</th>
+    <th width="33%" align="center">Testing & Otros</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="Google Cloud"/>
+      <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest"/>
+      <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/>
+      <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium"/>
+    </td>
+  </tr>
+</table>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/>
-    <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
-    <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/>
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/>
-    <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/>
-  </div>
-</div>
-
-<div style="flex: 1; border-right: 1px solid #e6e6e6; padding-left: 20px; padding-right: 20px;">
-  <div style="background-color: #e7f8e9; padding: 10px; border-radius: 8px; display: flex; align-items: center; margin-bottom: 15px;">
-    <span style="background-color: #b5e6b9; border-radius: 8px; padding: 8px; margin-right: 10px;">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect width="24" height="24" rx="4" fill="#b5e6b9"/>
-        <path d="M5 8h2m2 0h10M5 12h2m2 0h10M5 16h2m2 0h10" stroke="#22c55e" stroke-width="2"/>
-      </svg>
-    </span>
-    <span style="color: #22c55e; font-size: 18px; font-weight: 600;">Backend</span>
-  </div>
-
-  <p>Desarrollo de APIs robustas y escalables. Experiencia en Node.js, Python, bases de datos y arquitecturas de microservicios para aplicaciones empresariales.</p>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
-    <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/>
-    <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS"/>
-    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
-    <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask"/>
-    <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/>
-  </div>
-</div>
-
-<div style="flex: 1; padding-left: 20px;">
-  <div style="background-color: #f3e8fd; padding: 10px; border-radius: 8px; display: flex; align-items: center; margin-bottom: 15px;">
-    <span style="background-color: #e0c6f9; border-radius: 8px; padding: 8px; margin-right: 10px;">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect width="24" height="24" rx="4" fill="#e0c6f9"/>
-        <path d="M12 4v16M17 7v10M7 7v10" stroke="#9333ea" stroke-width="2"/>
-      </svg>
-    </span>
-    <span style="color: #9333ea; font-size: 18px; font-weight: 600;">Bases de Datos</span>
-  </div>
-
-  <p>Gestión y diseño de bases de datos relacionales y NoSQL. Optimización de consultas y arquitectura de datos para aplicaciones de alto rendimiento.</p>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
-    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
-    <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/>
-    <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/>
-    <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL"/>
-  </div>
-</div>
-</div>
-
-<br>
-
-<div>
-  <table>
-    <tr>
-      <th align="center">DevOps & Cloud</th>
-      <th align="center">Herramientas</th>
-      <th align="center">Testing & Otros</th>
-    </tr>
-    <tr valign="top">
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br>
-        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br>
-        <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="Google Cloud"/><br>
-        <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br>
-        <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br>
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/><br>
-        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest"/><br>
-        <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/><br>
-        <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/><br>
-        <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium"/>
-      </td>
-    </tr>
-  </table>
-</div>
 ## 📊 Estadísticas GitHub
 
 <div align="center">
