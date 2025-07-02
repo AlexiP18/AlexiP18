@@ -4,52 +4,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+tecnología;¡Siempre+aprendiendo!" alt="Typing SVG" />
 </div>
 
-<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px;">
-  <h2 style="color: white; margin: 0;">👨‍💻 Acerca de mí</h2>
+<h2 align="center">👨‍💻 Acerca de mí</h2>
+
+<div>
+  <h3>🚀 Sobre mí</h3>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" width="300" style="border-radius:20px"/>
+
+  Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
+
+  <details>
+  <summary>🔍 Más sobre mi perfil profesional...</summary>
+  <br>
+
+  - 💼 Especializado en desarrollo fullstack con enfoque en soluciones escalables
+  - 🎓 Formación continua en tecnologías emergentes y mejores prácticas
+  - 💡 Enfoque orientado a soluciones y arquitecturas limpias
+  - 👥 Experiencia en liderazgo técnico y mentoría de equipos
+  </details>
 </div>
 
-### 🚀 Sobre mí
-<div style="float: right; border-radius: 50%; border: 5px solid #8257E6; overflow: hidden; width: 350px; height: 350px;">
-  <img align="right" src="https://i.imgur.com/kdKhgx6.gif" width="350px" height="350px" alt="Coding Animation" style="object-fit: cover;">
-</div>
-
-Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
-
-<details>
-<summary>🔍 Más sobre mi perfil profesional...</summary>
-<br>
-
-- 💼 Especializado en desarrollo fullstack con enfoque en soluciones escalables
-- 🎓 Formación continua en tecnologías emergentes y mejores prácticas
-- 💡 Enfoque orientado a soluciones y arquitecturas limpias
-- 👥 Experiencia en liderazgo técnico y mentoría de equipos
-</details>
-
-<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: white; margin: 0;">🔭 Actualmente estoy...</h2>
-</div>
+<h3 align="center">🔭 Actualmente estoy...</h3>
 
 - Trabajando en proyectos de desarrollo web/móvil utilizando tecnologías modernas
 - Investigando arquitecturas serverless y microservicios
 - Mejorando mis habilidades en DevOps y CI/CD
 - Contribuyendo a proyectos open source
 
-<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: white; margin: 0;">🌱 Aprendiendo</h2>
-</div>
+<h3 align="center">🌱 Aprendiendo</h3>
 
-<div align="left">
-  <img src="https://progress-bar.dev/90/?title=JavaScript" width="170">
-  <img src="https://progress-bar.dev/85/?title=React" width="150">
-  <img src="https://progress-bar.dev/75/?title=Node.js" width="170">
-  <img src="https://progress-bar.dev/80/?title=Python" width="150">
-</div>
+<p align="center">
+  <b>JavaScript:</b>
+  <code>⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 90%</code><br>
+  <b>React:</b>
+  <code>⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 85%</code><br>
+  <b>Node.js:</b>
+  <code>⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 75%</code><br>
+  <b>Python:</b>
+  <code>⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80%</code>
+</p>
 
-<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: white; margin: 0;">🌟 Intereses</h2>
-</div>
+<h3 align="center">🌟 Intereses</h3>
 
-<table>
+<table align="center">
   <tr>
     <th>Intereses Técnicos</th>
     <td>Desarrollo Web, IA, Cloud Computing, DevOps</td>
@@ -68,14 +64,26 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
   </tr>
 </table>
 
-<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: white; margin: 0;">📫 Contáctame para...</h2>
+<h3 align="center">📫 Contáctame para...</h3>
+
+<div align="center">
+  <a href="mailto:tu-email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
 </div>
 
-- 💬 Discutir sobre desarrollo de software, arquitectura o cualquier tema tech
-- 🤝 Colaboraciones en proyectos open source
-- 🎯 Oportunidades profesionales interesantes
-- 🧠 Intercambiar ideas y conocimientos
+<ul>
+  <li>💬 Discutir sobre desarrollo de software, arquitectura o cualquier tema tech</li>
+  <li>🤝 Colaboraciones en proyectos open source</li>
+  <li>🎯 Oportunidades profesionales interesantes</li>
+  <li>🧠 Intercambiar ideas y conocimientos</li>
+</ul>
 
 ## 🛠️ Tecnologías y Herramientas
 
