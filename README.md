@@ -14,49 +14,56 @@ Soy un desarrollador apasionado por construir soluciones tecnológicas. Me encan
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Frontend
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <table>
+        <tr><td align="center"><h3>Frontend</h3></td></tr>
+        <tr><td align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,php,ts,react,vue,angular,html,css" />
+          </a>
+        </td></tr>
+        <tr><td align="center">Desarrollo de interfaces modernas y responsivas</td></tr>
+      </table>
+    </td>
+    <td align="center" width="33%">
+      <table>
+        <tr><td align="center"><h3>Backend</h3></td></tr>
+        <tr><td align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,php,ts,nodejs,python,java,go" />
+          </a>
+        </td></tr>
+        <tr><td align="center">Desarrollo de servicios robustos y escalables</td></tr>
+      </table>
+    </td>
+    <td align="center" width="33%">
+      <table>
+        <tr><td align="center"><h3>Bases de Datos</h3></td></tr>
+        <tr><td align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+          </a>
+        </td></tr>
+        <tr><td align="center">Gestión y optimización de datos a escala</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</div>
-
-### Base de Datos
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
-
-### DevOps & Herramientas
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+<table>
+  <tr>
+    <td align="center"><h3>Otras herramientas</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,gcp,figma,linux,vim" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Estadísticas GitHub
 
