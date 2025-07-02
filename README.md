@@ -14,39 +14,81 @@ Soy un desarrollador apasionado por construir soluciones tecnológicas. Me encan
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- Frontend -->
-  <div style="width: 30%; min-width: 250px; margin-bottom: 20px;">
-    <h3>Frontend</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,bootstrap,tailwind" />
-    </a>
+<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
+  <!-- Frontend Card -->
+  <div style="flex: 1; min-width: 250px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin-bottom: 20px; background-color: #1e1e2e;">
+    <!-- Card Header -->
+    <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
+      <h3 style="margin: 0; color: white;">Frontend</h3>
+    </div>
+    <!-- Card Body -->
+    <div style="padding: 15px; text-align: center;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular" style="max-width: 100%;" />
+        <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" style="max-width: 100%; margin-top: 10px;" />
+      </a>
+    </div>
+    <!-- Card Footer -->
+    <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
+      <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Desarrollo de interfaces modernas y responsivas</p>
+    </div>
   </div>
-  
-  <!-- Backend -->
-  <div style="width: 30%; min-width: 250px; margin-bottom: 20px;">
-    <h3>Backend</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,dotnet,go" />
-    </a>
+
+  <!-- Backend Card -->
+  <div style="flex: 1; min-width: 250px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin-bottom: 20px; background-color: #1e1e2e;">
+    <!-- Card Header -->
+    <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
+      <h3 style="margin: 0; color: white;">Backend</h3>
+    </div>
+    <!-- Card Body -->
+    <div style="padding: 15px; text-align: center;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" style="max-width: 100%;" />
+        <img src="https://skillicons.dev/icons?i=java,dotnet,go" style="max-width: 100%; margin-top: 10px;" />
+      </a>
+    </div>
+    <!-- Card Footer -->
+    <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
+      <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Construcción de APIs robustas y servicios eficientes</p>
+    </div>
   </div>
-  
-  <!-- Base de Datos -->
-  <div style="width: 30%; min-width: 250px; margin-bottom: 20px;">
-    <h3>Base de Datos</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
-    </a>
+
+  <!-- Base de Datos Card -->
+  <div style="flex: 1; min-width: 250px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin-bottom: 20px; background-color: #1e1e2e;">
+    <!-- Card Header -->
+    <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
+      <h3 style="margin: 0; color: white;">Base de Datos</h3>
+    </div>
+    <!-- Card Body -->
+    <div style="padding: 15px; text-align: center;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" style="max-width: 100%;" />
+        <img src="https://skillicons.dev/icons?i=redis,firebase,graphql" style="max-width: 100%; margin-top: 10px;" />
+      </a>
+    </div>
+    <!-- Card Footer -->
+    <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
+      <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Gestión y optimización de datos a escala</p>
+    </div>
   </div>
 </div>
 
-<div align="center">
-  <!-- Otras Tecnologías -->
-  <div style="width: 90%; margin-top: 10px;">
-    <h3>Otras Tecnologías</h3>
+<!-- Otras Tecnologías Card -->
+<div style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin: 20px 0; background-color: #1e1e2e;">
+  <!-- Card Header -->
+  <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
+    <h3 style="margin: 0; color: white;">Otras Tecnologías</h3>
+  </div>
+  <!-- Card Body -->
+  <div style="padding: 15px; text-align: center;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,gcp,figma,vscode,linux" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure" style="max-width: 100%;" />
+      <img src="https://skillicons.dev/icons?i=gcp,figma,vscode,linux,vim,bash" style="max-width: 100%; margin-top: 10px;" />
     </a>
+  </div>
+  <!-- Card Footer -->
+  <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
+    <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Herramientas de desarrollo, DevOps y productividad</p>
   </div>
 </div>
 
