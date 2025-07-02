@@ -14,17 +14,40 @@ Soy un desarrollador apasionado por construir soluciones tecnológicas. Me encan
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- Frontend -->
+  <div style="width: 30%; min-width: 250px; margin-bottom: 20px;">
+    <h3>Frontend</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,bootstrap,tailwind" />
+    </a>
+  </div>
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <!-- Backend -->
+  <div style="width: 30%; min-width: 250px; margin-bottom: 20px;">
+    <h3>Backend</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,dotnet,go" />
+    </a>
+  </div>
+  
+  <!-- Base de Datos -->
+  <div style="width: 30%; min-width: 250px; margin-bottom: 20px;">
+    <h3>Base de Datos</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+    </a>
+  </div>
+</div>
 
+<div align="center">
+  <!-- Otras Tecnologías -->
+  <div style="width: 90%; margin-top: 10px;">
+    <h3>Otras Tecnologías</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,gcp,figma,vscode,linux" />
+    </a>
+  </div>
 </div>
 
 ## 📊 Estadísticas GitHub
