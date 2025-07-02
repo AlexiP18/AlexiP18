@@ -6,9 +6,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Acerca de mí
 
-<div align="center">
-  <img src="https://i.imgur.com/kdKhgx6.gif" width="400px" alt="Coding Animation">
-</div>
 
 ### 🚀 Sobre mí
 <img align="right" src="https://i.imgur.com/kdKhgx6.gif" width="350px" alt="Coding Animation">
