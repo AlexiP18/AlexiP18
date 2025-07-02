@@ -4,11 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+tecnología;¡Siempre+aprendiendo!" alt="Typing SVG" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Acerca de mí
-
+<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px;">
+  <h2 style="color: white; margin: 0;">👨‍💻 Acerca de mí</h2>
+</div>
 
 ### 🚀 Sobre mí
-<img align="right" src="https://i.imgur.com/kdKhgx6.gif" width="350px" alt="Coding Animation">
+<div style="float: right; border-radius: 50%; border: 5px solid #8257E6; overflow: hidden; width: 350px; height: 350px;">
+  <img align="right" src="https://i.imgur.com/kdKhgx6.gif" width="350px" height="350px" alt="Coding Animation" style="object-fit: cover;">
+</div>
 
 Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
 
@@ -22,14 +25,18 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 - 👥 Experiencia en liderazgo técnico y mentoría de equipos
 </details>
 
-### 🔭 Actualmente estoy...
+<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
+  <h2 style="color: white; margin: 0;">🔭 Actualmente estoy...</h2>
+</div>
 
 - Trabajando en proyectos de desarrollo web/móvil utilizando tecnologías modernas
 - Investigando arquitecturas serverless y microservicios
 - Mejorando mis habilidades en DevOps y CI/CD
 - Contribuyendo a proyectos open source
 
-### 🌱 Aprendiendo
+<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
+  <h2 style="color: white; margin: 0;">🌱 Aprendiendo</h2>
+</div>
 
 <div align="left">
   <img src="https://progress-bar.dev/90/?title=JavaScript" width="170">
@@ -38,7 +45,9 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
   <img src="https://progress-bar.dev/80/?title=Python" width="150">
 </div>
 
-### 🌟 Intereses
+<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
+  <h2 style="color: white; margin: 0;">🌟 Intereses</h2>
+</div>
 
 <table>
   <tr>
@@ -59,7 +68,9 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
   </tr>
 </table>
 
-### 📫 Contáctame para...
+<div align="center" style="background-color: #8257E6; padding: 10px; border-radius: 10px; margin-top: 20px;">
+  <h2 style="color: white; margin: 0;">📫 Contáctame para...</h2>
+</div>
 
 - 💬 Discutir sobre desarrollo de software, arquitectura o cualquier tema tech
 - 🤝 Colaboraciones en proyectos open source
