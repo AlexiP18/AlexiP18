@@ -4,11 +4,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+tecnología;¡Siempre+aprendiendo!" alt="Typing SVG" />
 </div>
 
-<h2 align="center">👨‍💻 Acerca de mí</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Alex;Desarrollador+Full+Stack;Amante+de+la+Tecnología" alt="Título" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+    👨‍💻 ACERCA DE MÍ
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  </h2>
+</div>
 
 <div>
-  <h3>🚀 Sobre mí</h3>
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" width="300" style="border-radius:20px"/>
+  <h3>
+    <img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="30">
+    🚀 Sobre mí
+  </h3>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" width="300" />
 
   Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
 
@@ -23,14 +40,32 @@
   </details>
 </div>
 
-<h3 align="center">🔭 Actualmente estoy...</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35">
+    🔭 ACTUALMENTE ESTOY...
+  </h2>
+</div>
 
 - Trabajando en proyectos de desarrollo web/móvil utilizando tecnologías modernas
 - Investigando arquitecturas serverless y microservicios
 - Mejorando mis habilidades en DevOps y CI/CD
 - Contribuyendo a proyectos open source
 
-<h3 align="center">🌱 Aprendiendo</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+    🌱 HABILIDADES EN DESARROLLO
+  </h2>
+</div>
 
 <p align="center">
   <b>JavaScript:</b>
@@ -43,7 +78,16 @@
   <code>⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80%</code>
 </p>
 
-<h3 align="center">🌟 Intereses</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> 
+    🌟 INTERESES
+  </h2>
+</div>
 
 <table align="center">
   <tr>
@@ -64,7 +108,16 @@
   </tr>
 </table>
 
-<h3 align="center">📫 Contáctame para...</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35">
+    📫 CONTÁCTAME
+  </h2>
+</div>
 
 <div align="center">
   <a href="mailto:tu-email@example.com">
