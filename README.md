@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+tecnología;¡Siempre+aprendiendo!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Alex;Desarrollador+Full+Stack;Amante+de+la+Tecnología" alt="Título" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
