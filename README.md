@@ -9,44 +9,34 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-    👨‍💻 ACERCA DE MÍ
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  </h2>
-</div>
-
-<div>
-  <h3>
-    <img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="30">
-    🚀 Sobre mí
-  </h3>
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" width="300" />
-
-  Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
-
-  <details>
-  <summary>🔍 Más sobre mi perfil profesional...</summary>
-  <br>
-
-  - 💼 Especializado en desarrollo fullstack con enfoque en soluciones escalables
-  - 🎓 Formación continua en tecnologías emergentes y mejores prácticas
-  - 💡 Enfoque orientado a soluciones y arquitecturas limpias
-  - 👥 Experiencia en liderazgo técnico y mentoría de equipos
-  </details>
-</div>
+## 📌 Acerca de mí
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <hr style="width: 50%; border-top: 2px solid #6C63FF;">
+  <h3>✦ ✦ ✦</h3>
 </div>
 
+### 🚀 Sobre mí
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" width="300" />
+
+Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
+
+<details>
+<summary>🔍 Más sobre mi perfil profesional...</summary>
+<br>
+
+- 💼 Especializado en desarrollo fullstack con enfoque en soluciones escalables
+- 🎓 Formación continua en tecnologías emergentes y mejores prácticas
+- 💡 Enfoque orientado a soluciones y arquitecturas limpias
+- 👥 Experiencia en liderazgo técnico y mentoría de equipos
+</details>
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35">
-    🔭 ACTUALMENTE ESTOY...
-  </h2>
+  <h3>✦ ✦ ✦</h3>
+  <hr style="width: 50%; border-top: 2px solid #6C63FF;">
 </div>
+
+## 📌 Actualmente estoy...
 
 - Trabajando en proyectos de desarrollo web/móvil utilizando tecnologías modernas
 - Investigando arquitecturas serverless y microservicios
@@ -54,37 +44,29 @@
 - Contribuyendo a proyectos open source
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <hr style="width: 50%; border-top: 2px solid #6C63FF;">
+  <h3>✦ ✦ ✦</h3>
 </div>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-    🌱 HABILIDADES EN DESARROLLO
-  </h2>
-</div>
+## 📌 Habilidades en desarrollo
 
 <p align="center">
   <b>JavaScript:</b>
-  <code>⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 90%</code><br>
+  <code>▰▰▰▰▰▰▰▰▰▱ 90%</code><br>
   <b>React:</b>
-  <code>⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 85%</code><br>
+  <code>▰▰▰▰▰▰▰▰▱▱ 85%</code><br>
   <b>Node.js:</b>
-  <code>⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 75%</code><br>
+  <code>▰▰▰▰▰▰▰▱▱▱ 75%</code><br>
   <b>Python:</b>
-  <code>⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80%</code>
+  <code>▰▰▰▰▰▰▰▰▱▱ 80%</code>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h3>✦ ✦ ✦</h3>
+  <hr style="width: 50%; border-top: 2px solid #6C63FF;">
 </div>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> 
-    🌟 INTERESES
-  </h2>
-</div>
+## 📌 Intereses
 
 <table align="center">
   <tr>
@@ -106,15 +88,11 @@
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h3>✦ ✦ ✦</h3>
+  <hr style="width: 50%; border-top: 2px solid #6C63FF;">
 </div>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35">
-    📫 CONTÁCTAME
-  </h2>
-</div>
+## 📌 Contáctame
 
 <div align="center">
   <a href="mailto:tu-email@example.com">
@@ -128,12 +106,10 @@
   </a>
 </div>
 
-<ul>
-  <li>💬 Discutir sobre desarrollo de software, arquitectura o cualquier tema tech</li>
-  <li>🤝 Colaboraciones en proyectos open source</li>
-  <li>🎯 Oportunidades profesionales interesantes</li>
-  <li>🧠 Intercambiar ideas y conocimientos</li>
-</ul>
+- 💬 Discutir sobre desarrollo de software, arquitectura o cualquier tema tech
+- 🤝 Colaboraciones en proyectos open source
+- 🎯 Oportunidades profesionales interesantes
+- 🧠 Intercambiar ideas y conocimientos
 
 ## 🛠️ Tecnologías y Herramientas
 
