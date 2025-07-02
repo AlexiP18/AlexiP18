@@ -14,82 +14,48 @@ Soy un desarrollador apasionado por construir soluciones tecnológicas. Me encan
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
-  <!-- Frontend Card -->
-  <div style="flex: 1; min-width: 250px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin-bottom: 20px; background-color: #1e1e2e;">
-    <!-- Card Header -->
-    <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
-      <h3 style="margin: 0; color: white;">Frontend</h3>
-    </div>
-    <!-- Card Body -->
-    <div style="padding: 15px; text-align: center;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular" style="max-width: 100%;" />
-        <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass" style="max-width: 100%; margin-top: 10px;" />
-      </a>
-    </div>
-    <!-- Card Footer -->
-    <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
-      <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Desarrollo de interfaces modernas y responsivas</p>
-    </div>
-  </div>
-
-  <!-- Backend Card -->
-  <div style="flex: 1; min-width: 250px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin-bottom: 20px; background-color: #1e1e2e;">
-    <!-- Card Header -->
-    <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
-      <h3 style="margin: 0; color: white;">Backend</h3>
-    </div>
-    <!-- Card Body -->
-    <div style="padding: 15px; text-align: center;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" style="max-width: 100%;" />
-        <img src="https://skillicons.dev/icons?i=java,dotnet,go" style="max-width: 100%; margin-top: 10px;" />
-      </a>
-    </div>
-    <!-- Card Footer -->
-    <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
-      <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Construcción de APIs robustas y servicios eficientes</p>
-    </div>
-  </div>
-
-  <!-- Base de Datos Card -->
-  <div style="flex: 1; min-width: 250px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin-bottom: 20px; background-color: #1e1e2e;">
-    <!-- Card Header -->
-    <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
-      <h3 style="margin: 0; color: white;">Base de Datos</h3>
-    </div>
-    <!-- Card Body -->
-    <div style="padding: 15px; text-align: center;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" style="max-width: 100%;" />
-        <img src="https://skillicons.dev/icons?i=redis,firebase,graphql" style="max-width: 100%; margin-top: 10px;" />
-      </a>
-    </div>
-    <!-- Card Footer -->
-    <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
-      <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Gestión y optimización de datos a escala</p>
-    </div>
-  </div>
+### Frontend
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
 
-<!-- Otras Tecnologías Card -->
-<div style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden; margin: 20px 0; background-color: #1e1e2e;">
-  <!-- Card Header -->
-  <div style="background-color: #7E3ACE; padding: 10px; text-align: center;">
-    <h3 style="margin: 0; color: white;">Otras Tecnologías</h3>
-  </div>
-  <!-- Card Body -->
-  <div style="padding: 15px; text-align: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure" style="max-width: 100%;" />
-      <img src="https://skillicons.dev/icons?i=gcp,figma,vscode,linux,vim,bash" style="max-width: 100%; margin-top: 10px;" />
-    </a>
-  </div>
-  <!-- Card Footer -->
-  <div style="background-color: #2d2d42; padding: 10px; text-align: center;">
-    <p style="margin: 0; color: #a9b1d6; font-size: 14px;">Herramientas de desarrollo, DevOps y productividad</p>
-  </div>
+### Backend
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</div>
+
+### Base de Datos
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
+
+### DevOps & Herramientas
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ## 📊 Estadísticas GitHub
