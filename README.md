@@ -105,37 +105,6 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
   <hr style="width: 50%; border-top: 2px solid #6C63FF;">
 </div>
 
-## 📌 Contáctame
-
-<div align="center">
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="mailto:tu-email@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/tu-usuario">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/tu-usuario">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/1234567890">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
-  </a>
-</div>
-
-- 💬 Discutir sobre desarrollo de software, arquitectura o cualquier tema tech
-- 🤝 Colaboraciones en proyectos open source
-- 🎯 Oportunidades profesionales interesantes
-- 🧠 Intercambiar ideas y conocimientos
-
 ## 🛠️ Tecnologías y Herramientas
 
 <table>
@@ -277,13 +246,36 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 
 ## 📫 Contáctame
 
+## 📌 Contáctame
+
 <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
-
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:tu-email@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/tu-usuario">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tu-usuario">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/1234567890">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+  </a>
 </div>
+
+- 💬 Discutir sobre desarrollo de software, arquitectura o cualquier tema tech
+- 🤝 Colaboraciones en proyectos open source
+- 🎯 Oportunidades profesionales interesantes
+- 🧠 Intercambiar ideas y conocimientos
 
 <!-- Contador de visitantes -->
 <div align="center">
