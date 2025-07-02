@@ -39,7 +39,6 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 
 ### 🌟 Intereses
 
-```javascript
 const alex = {
   interesesTecnicos: ["Desarrollo Web", "IA", "Cloud Computing", "DevOps"],
   hobbies: ["Programación", "Gaming", "Música", "Viajes"],
