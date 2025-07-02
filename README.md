@@ -11,6 +11,8 @@
 </div>
 
 ### 🚀 Sobre mí
+<img align="right" src="https://i.imgur.com/kdKhgx6.gif" width="350px" alt="Coding Animation">
+
 Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones móviles y arquitectura de sistemas. Mi objetivo es crear soluciones tecnológicas que combinen funcionalidad, rendimiento y experiencia de usuario excepcional.
 
 <details>
