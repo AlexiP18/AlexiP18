@@ -13,7 +13,6 @@
 
 <div align="center">
   <hr style="width: 50%; border-top: 2px solid #6C63FF;">
-  <h3>✦ ✦ ✦</h3>
 </div>
 
 ### 🚀 Sobre mí
@@ -32,7 +31,6 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 </details>
 
 <div align="center">
-  <h3>✦ ✦ ✦</h3>
   <hr style="width: 50%; border-top: 2px solid #6C63FF;">
 </div>
 
@@ -45,24 +43,40 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 
 <div align="center">
   <hr style="width: 50%; border-top: 2px solid #6C63FF;">
-  <h3>✦ ✦ ✦</h3>
 </div>
 
 ## 📌 Habilidades en desarrollo
 
-<p align="center">
-  <b>JavaScript:</b>
-  <code>▰▰▰▰▰▰▰▰▰▱ 90%</code><br>
-  <b>React:</b>
-  <code>▰▰▰▰▰▰▰▰▱▱ 85%</code><br>
-  <b>Node.js:</b>
-  <code>▰▰▰▰▰▰▰▱▱▱ 75%</code><br>
-  <b>Python:</b>
-  <code>▰▰▰▰▰▰▰▰▱▱ 80%</code>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td>
+        <img src="https://progress-bar.dev/90/" width="250px" height="25px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>React</b></td>
+      <td>
+        <img src="https://progress-bar.dev/85/" width="250px" height="25px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Node.js</b></td>
+      <td>
+        <img src="https://progress-bar.dev/75/" width="250px" height="25px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Python</b></td>
+      <td>
+        <img src="https://progress-bar.dev/80/" width="250px" height="25px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-  <h3>✦ ✦ ✦</h3>
   <hr style="width: 50%; border-top: 2px solid #6C63FF;">
 </div>
 
@@ -70,39 +84,50 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 
 <table align="center">
   <tr>
-    <th>Intereses Técnicos</th>
+    <th>💻 Intereses Técnicos</th>
     <td>Desarrollo Web, IA, Cloud Computing, DevOps</td>
   </tr>
   <tr>
-    <th>Hobbies</th>
+    <th>🎮 Hobbies</th>
     <td>Programación, Gaming, Música, Viajes</td>
   </tr>
   <tr>
-    <th>Metas Diarias</th>
+    <th>📝 Metas Diarias</th>
     <td>Aprender algo nuevo, Contribuir a open source, Mejorar mi código</td>
   </tr>
   <tr>
-    <th>Cita Favorita</th>
+    <th>💭 Cita Favorita</th>
     <td><i>"El código es como el humor. Cuando tienes que explicarlo, es malo."</i></td>
   </tr>
 </table>
 
 <div align="center">
-  <h3>✦ ✦ ✦</h3>
   <hr style="width: 50%; border-top: 2px solid #6C63FF;">
 </div>
 
 ## 📌 Contáctame
 
 <div align="center">
-  <a href="mailto:tu-email@example.com">
+  <a href="mailto:tu-email@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:tu-email@outlook.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/tu-usuario">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/tu-usuario">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/tu-usuario">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tu-usuario">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/1234567890">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
   </a>
 </div>
 
