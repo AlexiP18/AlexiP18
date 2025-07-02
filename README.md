@@ -199,10 +199,19 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/AlexiP18/proyecto-destacado-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=proyecto-destacado-1&theme=tokyonight" />
+  <a href="https://github.com/AlexiP18/Ecommerce-Spring-Boot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=Ecommerce-Spring-Boot&theme=tokyonight" />
   </a>
-  <a href="https://github.com/AlexiP18/proyecto-destacado-2">
+  <a href="https://github.com/AlexiP18/ECommerce-Angular-Material">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=ECommerce-Angular-Material&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AlexiP18/FlightBookings">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=FlightBookings&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AlexiP18/sistemaEventosFrontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=sistemaEventosFrontend&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AlexiP18/sistemaEventosBackend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexiP18&repo=proyecto-destacado-2&theme=tokyonight" />
   </a>
 </div>
