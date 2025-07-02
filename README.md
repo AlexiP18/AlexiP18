@@ -52,25 +52,25 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
     <tr>
       <td><b>JavaScript</b></td>
       <td>
-        <img src="https://progress-bar.dev/90/" width="250px" height="25px"/>
+        <img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%97%8B-90%25-yellow?style=flat-square&labelColor=black" />
       </td>
     </tr>
     <tr>
       <td><b>React</b></td>
       <td>
-        <img src="https://progress-bar.dev/85/" width="250px" height="25px"/>
+        <img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%97%8B%E2%97%8B-85%25-blue?style=flat-square&labelColor=black" />
       </td>
     </tr>
     <tr>
       <td><b>Node.js</b></td>
       <td>
-        <img src="https://progress-bar.dev/75/" width="250px" height="25px"/>
+        <img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%97%8B%E2%97%8B%E2%97%8B-75%25-green?style=flat-square&labelColor=black" />
       </td>
     </tr>
     <tr>
       <td><b>Python</b></td>
       <td>
-        <img src="https://progress-bar.dev/80/" width="250px" height="25px"/>
+        <img src="https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%97%8B%E2%97%8B-80%25-blueviolet?style=flat-square&labelColor=black" />
       </td>
     </tr>
   </table>
